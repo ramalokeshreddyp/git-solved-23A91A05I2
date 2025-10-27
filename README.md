@@ -43,7 +43,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 4. Monitor system health  
 
 ```bash
-git clone https://github.com/yourusername/devops-simulator.git
+git clone https://github.com/Partnrnetwork/git-mastery-challenge-template.git
 cd devops-simulator
 bash scripts/deploy.sh
 💻 Development Mode
