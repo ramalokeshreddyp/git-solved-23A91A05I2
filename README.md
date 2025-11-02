@@ -111,4 +111,4 @@ See the /docs folder for detailed documentation on:
 
 
 
-# DevOps Simulator — Empowering Scalable, Automated, and Intelligent Deployments.
+# DevOps Simulator — Empowering Scalable, Automated, And Intelligent Deployments.
